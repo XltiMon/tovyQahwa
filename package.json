@@ -42,7 +42,7 @@
     "vue": "2.6.14",
     "vue-cookies": "^1.7.4",
     "vue-countdown": "^1.0.4",
-    "vue-router": "^3.2.0",
+    "vue-router": "^3.6.4",
     "vue-simple-markdown": "^1.1.5",
     "vuedraggable": "^2.24.3",
     "vuetify": "^2.6.2",
